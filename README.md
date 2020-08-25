@@ -5,4 +5,4 @@ I made this repository so that i can keep track of the problems i have been solv
 
 ## Java | 64/64 Solved
 
-## Interview Preparation Kit | 26/69 Solved | Date 27-7-2020
+## Interview Preparation Kit | 30/69 Solved | Date 28-8-2020
